@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>test</id>
+    <version>1.0.0</version>
+    <title>Milan Slot Engine Common</title>
+    <authors>Me</authors>
+    <owners>test</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+	<description>test</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2023</copyright>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="bin\Debug\net7.0\*.dll" target="lib\net7.0" />
+    <file src="bin\Debug\net8.0\*.dll" target="lib\net8.0" />
+  </files>
+  
+</package>
