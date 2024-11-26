@@ -2,7 +2,7 @@
 	<!--GENERAL CONFIGURATION-->
     <PropertyGroup>
         <TargetFramework>net7.0</TargetFramework>
-        <Version>3.0.0</Version>
+        <Version>3.1.0</Version>
     </PropertyGroup>
 	<!--PACKAGE REFERENCES-->
     <ItemGroup>
@@ -13,11 +13,11 @@
     </ItemGroup>
 <Otherwise> 
 <ItemGroup>
-		<PackageReference Include="Slots" Version="3.0.*" /> 
-		<PackageReference Include="StateMachine" Version="3.0.*" /> 
-		<PackageReference Include="CryptoRng" Version="3.0.*" /> 
-		<PackageReference Include="Common.SlotEngine" Version="3.0.*" /> 
-		<PackageReference Include="com.aristocrat.jackpot-dtos" Version="3.0.*" /> 
+		<PackageReference Include="Slots" Version="3.1.*" /> 
+		<PackageReference Include="StateMachine" Version="3.1.*" /> 
+		<PackageReference Include="CryptoRng" Version="3.1.*" /> 
+		<PackageReference Include="Common.SlotEngine" Version="3.1.*" /> 
+		<PackageReference Include="com.aristocrat.jackpot-dtos" Version="3.1.*" /> 
 </ItemGroup>
 </Otherwise>
 
