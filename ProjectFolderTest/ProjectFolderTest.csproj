@@ -13,11 +13,11 @@
     </ItemGroup>
 <Otherwise> 
 <ItemGroup>
-		<PackageReference Include="Slots" Version="3.0.*.*" /> 
-		<PackageReference Include="StateMachine" Version="3.0.*.*" /> 
-		<PackageReference Include="CryptoRng" Version="3.0.*.*" /> 
-		<PackageReference Include="Common.SlotEngine" Version="3.0.*.*" /> 
-		<PackageReference Include="com.aristocrat.jackpot-dtos" Version="3.0.*.*" /> 
+		<PackageReference Include="Slots" Version="3.0.*" /> 
+		<PackageReference Include="StateMachine" Version="3.0.*" /> 
+		<PackageReference Include="CryptoRng" Version="3.0.*" /> 
+		<PackageReference Include="Common.SlotEngine" Version="3.0.*" /> 
+		<PackageReference Include="com.aristocrat.jackpot-dtos" Version="3.0.*" /> 
 </ItemGroup>
 </Otherwise>
 
